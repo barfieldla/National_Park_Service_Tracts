@@ -1,3 +1,3 @@
 # National Park Service Tracts
 
-This web map shows 4 types of tracts that are owned by the United States National Park Service.
+This web map shows 4 types of tracts that are owned by the United States National Park Service: National Monument, National Historical Site, National Historic Park, and National Park. The types are shown using a tree icon referencing the National Park Service (NPS) logo in colors consistent with their theme. Clicking on the icons will show the name of each tract. The total amount of tracts within each state were calculated and displayed in a continuous color scheme of yellow to red indicating least to greatest. The map begins with a zoom level around 4 so that Alaska, Hawaii, and Puerto Rico can be seen. The final product showcases where clusters of NPS Tracts are located around the United States. 
